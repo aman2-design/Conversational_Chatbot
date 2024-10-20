@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "question": "What is the purpose of Tech Mahindra's employee insurance policy?",
+        "answer": "The policy provides financial protection to employees in the event of illness, injury, or other covered events."
+    },
+    {
+        "id": 2,
+        "question": "What types of coverage are typically included in the policy?",
+        "answer": "The policy covers hospitalization, surgical expenses, maternity expenses, critical illnesses, and other specified benefits."
+    },
+    {
+        "id": 3,
+        "question": "How do employees qualify for coverage under the policy?",
+        "answer": "Employees are eligible for coverage based on their employment status and company policy guidelines."
+    },
+    {
+        "id": 4,
+        "question": "What is the claims process for the employee insurance policy?",
+        "answer": "Employees should submit a claim form along with necessary documentation to the insurance provider."
+    },
+    {
+        "id": 5,
+        "question": "Where can employees find more information about the company insurance policy?",
+        "answer": "Employees can refer to the company's intranet or contact the HR department for detailed policy information and guidelines."
+    }
+]
